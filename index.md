@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-# 基本的な使い方
-<br>
 
+# 基本的な使い方
+---
 ## 1.英単語を認識する
 カメラ画面の中心にあるカーソルを英単語に向けてかざします。
 
@@ -16,7 +16,6 @@ layout: default
 <img src="https://raw.githubusercontent.com/bjxytw/wordlens-help/master/images/image3.png" width="300"><br><br>
 
 ＊文字がボケて認識できないときは、カメラ画面のどこかをタップすると、ピントの調節ができます。
-<br><br>
 
 ## 2.英単語の検索・コピー
 <img src="https://raw.githubusercontent.com/bjxytw/wordlens-help/master/images/image2.png" width="300"><br>
@@ -26,7 +25,6 @@ layout: default
 検索するサイトはGoogle、Wikipedia、英辞郎などから選択できます。（右上のメニューから設定画面を開き、「検索するサイト」で変更できます）
 
 さらにその右にあるコピーアイコンをタップすると、単語がクリップボードにコピーされます。
-<br><br>
 
 ## 3.英単語の意味・発音を確認
 認識した単語は、自動的に内蔵の英和辞典で検索され、単語名とその説明が表示されます。

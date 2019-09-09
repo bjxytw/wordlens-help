@@ -1,3 +1,5 @@
-theme: jekyll-theme-slate
-title: ヘルプ
+theme: jekyll-theme-cayman
+title: 「英単語レンズ」ヘルプ
 google_analytics: UA-145872339-1
+github:
+  is_project_page: false
